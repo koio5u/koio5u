@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI, sci-pop, security and cutten edge tech
 - 🌱 I’m currently ~~learning~~ dealing with legacy API docs💀
 - 💞️ I’m looking to collaborate on epic pet-projects
-- 📫 How to reach me: dm at real@koiosu.com or just create public issue [here](https://github.com/koio5u/koio5u/issues)
+- 📫 How to reach me: dm at real@koiosu.com or just create public issue [here](https://github.com/koio5u/koio5u/issues/new)
